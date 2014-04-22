@@ -1,0 +1,38 @@
+# Dependencies
+markdown:         redcarpet
+redcarpet:
+  extensions: ["strikethrough"]
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+#permalink: /blog/:year/:month/:day/:title
+
+# Setup
+title:            jonathanHirz.com
+tagline:          'Ramblings of a developing video game developer'
+description:      'Husband, father, developer.'
+url:              http://jonathanhirz.com
+
+author:
+  name:           'Jonathan Hirz'
+  url:            http://jonathanhiz.com
+
+paginate:         5
+paginate_path: "blog/page:num"
+
+# Glynn Config
+ftp_host: 'ftp.jonathanhirz.com'
+ftp_dir: '/public_html/'
+ftp_passive: false
+
+# optional
+ftp_port: 21                  # default 21
+ftp_username: 'jonathan'     # default read from stdin
+ftp_password: 'gD2-vF2-6sB-8YF' # default read from stdin
+
+# Custom vars
+#version:          2.0.0
+
+#github:
+#  repo:           https://github.com/poole/hyde
