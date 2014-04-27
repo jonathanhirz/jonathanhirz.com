@@ -4,23 +4,28 @@ title: I Make Games
 ---
 
 <div class="new-entry">
-<img class="fl" src="/images/bounceGame.png"  />
-<a href="/bouncegame">bounceGame...thing</a> - Moving right along with my HaxeFlixel learning, here's another quick game thing. Bounce on the platforms to make a point, and don't hit the spikes! [8 Apr 2014]
+<img class="fl" src="/images/bounceGame.png" />
+<a href="/games/bouncegame">bounceGame...thing</a> - Moving right along with my HaxeFlixel learning, here's another quick game thing. Bounce on the platforms to make a point, and don't hit the spikes! [8 Apr 2014]
 </div>
 
 <div class="new-entry">
-<img class="fl" src="/images/quadrobounce2.png"  />
-<a href="/quadrobounce2">quadrobounce2</a> - More work in HaxeFlixel, this time recreating my first iOS game. It only took one day to get this up and running, but obviously isn't finished. May take this one to full release someday. [28 Mar 2014]
+<img class="fl" src="/images/quadrobounce2.png" />
+<a href="/games/quadrobounce2">quadrobounce2</a> - More work in HaxeFlixel, this time recreating my first iOS game. It only took one day to get this up and running, but obviously isn't finished. May take this one to full release someday. [28 Mar 2014]
 </div>
 
 <div class="new-entry">
-<img class="fl" src="/images/newShooter.png"  />
-<a href="/newShooter">newShooter</a> - A quick mockup of a new space shooter (my favorite genre apparently) made with Unity and <a href="https://github.com/MattRix/Futile">Futile</a>, with graphics from <a href="http://kenney.nl/post/platformer-art-assets-deluxe">Kennel.nl</a>). [8 Mar 2014]
+<img class="fl" src="/images/crashPlan.png" />
+<a href="/games/crashPlan">crashPlan</a> - I built this last month but kind of forgot about it. This was my attempt at a 'flappy' clone <b>in spaaaace!</b> No collision detection yet but you can tap space to burst up a little bit and pretend to avoid the asteroids. [15 Mar 2014]
 </div>
 
 <div class="new-entry">
-<img class="fl" src="/images/shielDefense.png"  />
-<a href="/shielDefense">shielDefense Prototype</a> - Check out the first released prototype for shielDefense. Requires a twin stick controller. Read about the project <a href="http://jonathanhirz.com/2014/01/13/shieldefense-demoprototypeproof-of-concept/">here</a>. [1 Jan 2014]
+<img class="fl" src="/images/newShooter.png" />
+<a href="/games/newShooter">newShooter</a> - A quick mockup of a new space shooter (my favorite genre apparently) made with Unity and <a href="https://github.com/MattRix/Futile">Futile</a>, with graphics from <a href="http://kenney.nl/post/platformer-art-assets-deluxe">Kennel.nl</a>). [8 Mar 2014]
+</div>
+
+<div class="new-entry">
+<img class="fl" src="/images/shielDefense.png" />
+<a href="/games/shielDefense">shielDefense Prototype</a> - Check out the first released prototype for shielDefense. Requires a twin stick controller. Read about the project <a href="http://jonathanhirz.com/2014/01/13/shieldefense-demoprototypeproof-of-concept/">here</a>. [1 Jan 2014]
 </div>
 
 <div class="new-entry">

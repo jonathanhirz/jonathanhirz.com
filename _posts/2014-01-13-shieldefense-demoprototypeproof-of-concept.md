@@ -2,7 +2,7 @@
 layout: post
 title: shielDefense demo/prototype/proof of concept
 ---
-If you have a controller hooked up to your PC, you can try out the prototype of a new game that I have been working on <a href="http://jonathanhirz.com/shielDefense">RIGHT HERE</a>. This is a super bare bones version of what I want to make, focusing on the core gameplay element only. No fancy graphics, no sound, no real point yet except to test if the game would be fun. So check it out.
+If you have a controller hooked up to your PC, you can try out the prototype of a new game that I have been working on <a href="http://jonathanhirz.com/games/shielDefense">RIGHT HERE</a>. This is a super bare bones version of what I want to make, focusing on the core gameplay element only. No fancy graphics, no sound, no real point yet except to test if the game would be fun. So check it out.
 
 I emphasize the need for a controller because keyboard controls will just not work for this game. I have them enabled for testing (you can still move the ship with the arrow keys, but that's it), but this game requires a twin stick controller to play correctly. So, I apologize if you don't have a controller handy.
 
