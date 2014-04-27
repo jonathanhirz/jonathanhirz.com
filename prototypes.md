@@ -17,7 +17,7 @@ title: Prototypes
 </div>
 
 <div class="new-entry">
-<a title="ClickGame" href="/games/UnityWBProject1">ClickGame</a> - First complete ‘game’ built from the <a title="Walker Boys Studio" href="http://walkerboystudio.com/html/unity_course_syllabus.html">Walker Boys Studio</a> tutorial series. [28 Sep 2013]
+<a title="ClickGame" href="/games/clickGame">ClickGame</a> - First complete ‘game’ built from the <a title="Walker Boys Studio" href="http://walkerboystudio.com/html/unity_course_syllabus.html">Walker Boys Studio</a> tutorial series. [28 Sep 2013]
 </div>
 
 <div class="new-entry">
