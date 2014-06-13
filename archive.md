@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: gamePage
 title: Archive
 ---
+
 <ul>
   {% for post in site.posts %}
 

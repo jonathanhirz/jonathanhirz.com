@@ -66,13 +66,21 @@
 .css .nt + .nt { color: #999; }
 
 .fl {
-	float: left;
-	width: 280px;
+	width: 220px;
 	margin-right: 10px;
 	margin-bottom: 10px;
 	}
 
 .new-entry {
-	clear: left;
+	display: inline-block;
+	position: relative;
 	padding-top: 20px;
+}
+
+.new-entry p {
+	font-size: 14px;
+}
+
+.info {
+	color: #949494;
 }
