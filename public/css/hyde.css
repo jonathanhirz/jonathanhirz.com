@@ -36,7 +36,7 @@ html {
 }
 @media (min-width: 48rem) {
   html {
-    font-size: 16px;
+    font-size: 20px;
   }
 }
 @media (min-width: 58rem) {
@@ -80,7 +80,7 @@ html {
   color: #fff;
   margin-top: 0;
   font-family: "Verdana", serif;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 
 /* Sidebar nav */
@@ -90,6 +90,7 @@ html {
 }
 .sidebar-nav-item {
   display: block;
+  font-size: 16px;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
