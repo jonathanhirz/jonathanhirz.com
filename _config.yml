@@ -32,7 +32,7 @@ ftp_username: 'jonathan'     # default read from stdin
 ftp_password: 'gD2-vF2-6sB-8YF' # default read from stdin
 
 # Custom vars
-#version:          2.0.0
+version:          2.1.0
 
 #github:
 #  repo:           https://github.com/poole/hyde
