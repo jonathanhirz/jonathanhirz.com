@@ -54,12 +54,12 @@ title: I Make Games
 </div>
 
 <div class="new-entry">
-<p><a href="http://appstore.com/radialtimer"><img class="fl" src="/images/radialTimer.png" />raDial Timer</a> - <a title="raDial Timer Gallery" href="http://imgur.com/a/TQLYx" target="_blank">Gallery</a> <br />
+<p><a href="http://appstore.com/radialtimer"><img class="fl" src="/images/radialTimer.png" />raDial Timer</a> - <a title="raDial Timer Gallery" href="http://imgur.com/a/TQLYx" target="_blank">Gallery</a> - <a href="https://github.com/jonathanhirz/raDialTimer">Source</a><br />
 <span class="info">iOS/Objective-C - September 2013</span> <br />
 </div>
 
 <div class="new-entry">
 <img class="fl" src="/images/quadrobounce_ingame.png" />
-<p>quadrobounce! (deprecated)<br />
+<p><s>quadrobounce!</s> - <a href="https://github.com/jonathanhirz/quadrobounce">Source</a><br />
 <span class="info">iOS/Objective-C - August 2011</span> </p>
 </div>
