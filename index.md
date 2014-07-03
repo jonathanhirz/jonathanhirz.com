@@ -2,11 +2,19 @@
 layout: gamePage
 title: I Make Games
 ---
+<!--
+<div class="new-entry">
+<p><a href="/games/spaceSpudsHF"><img class="fl" src="/images/spaceSpudsHF.png" />spaceSpudsHF</a> <br />
+<span class="info">HaxeFlixel/Flash - June 2014</span> </p>
+</div>
+-->
 
+<!--
 <div class="new-entry">
 <p><a href="/games/spaceSpuds"><img class="fl" src="/images/spaceSpuds.png" />spaceSpuds</a> <br />
 <span class="info">Unity - June 2014</span> </p>
 </div>
+-->
 
 <div class="new-entry">
 <p><a href="/games/bouncegame"><img class="fl" src="/images/bounceGame.png" />bounceGame...thing</a> <br />
