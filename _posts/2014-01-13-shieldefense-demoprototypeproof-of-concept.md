@@ -14,4 +14,4 @@ The third vision I have is to take the single player core gameplay, and add mult
 
 But for now, I have a core gameplay proof of concept and a dream. Feel free to play around and send me any feedback you have. You can comment on this post, reach me on twitter or send me an email. Thanks!
 
-<a href="http://jonathanhirz.com/shielDefense">shielDefense</a>
+<a href="http://jonathanhirz.com/games/shielDefense">shielDefense</a>

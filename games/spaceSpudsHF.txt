@@ -1,0 +1,3 @@
+spaceSpudsHF - a Flaplike in space
+
+[0.1.0] - core gameplay with menu&gameover state is done. still needs tweaking and polish

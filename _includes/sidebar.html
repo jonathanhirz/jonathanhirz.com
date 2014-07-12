@@ -1,6 +1,8 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
+    <a href="http://jonathanhirz.itch.io"><img src="/images/itch.png" /></a>
+    <a href="http://patreon.com/jonathanhirz"><img src="/images/patreon.png" /></a>
       <h1>
         <a href="{{ site.baseurl }}">
           {{ site.title }}
@@ -26,9 +28,11 @@
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
-            <li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
-              <a href="{{ node.url }}">{{ node.title }}</a>
-            </li>
+            {% if node.title != "I Make Games" %}
+              <li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
+                <a href="{{ node.url }}">{{ node.title }}</a>
+              </li>
+            {% endif %}
           {% endif %}
         {% endif %}
       {% endfor %}
