@@ -1,0 +1,4 @@
+spaceSpuds - a Flaplike in space
+
+[0.1.1] - Added pixel perfect collision detection, difficulty increases (more asteroids are spawned as time goes on)
+[0.1.0] - core gameplay with menu&gameover state is done. still needs tweaking and polish

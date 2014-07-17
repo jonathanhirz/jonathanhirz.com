@@ -1,5 +1,5 @@
 ---
-layout: gamePage
+layout: otherPage
 title: Archive
 ---
 
