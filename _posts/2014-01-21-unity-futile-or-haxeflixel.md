@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Unity + Futile, or HaxeFlixel?
+category: dev
 ---
 I started messing around with <a href="https://github.com/MattRix/Futile">Futile</a> yesterday after a few days of deciding which framework to go ahead with. I have really been debating between <a href="http://haxeflixel.com">HaxeFlixel</a> and Unity + Futile for a number of reasons, and didn't want to move too far forward until I knew which I wanted to use. I really like both because they allow for cross platform deployment. This is <strong>HUGE</strong> to me because it means less work in getting my games out to as many people/platforms as possible. Code once, deploy everywhere.
 

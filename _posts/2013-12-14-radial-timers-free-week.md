@@ -1,6 +1,7 @@
 ---
 layout: post
 title: raDial Timer's Free Week
+category: iOS
 ---
 Last week I set raDial Timer to free in the App Store, just to see what would happen. I honestly didn't expect too much, but it's always fun to play around with these apps and try to reach more people.
 

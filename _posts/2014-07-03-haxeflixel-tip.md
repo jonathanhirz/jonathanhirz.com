@@ -1,6 +1,7 @@
 ---
 layout: post
 title: HaxeFlixel / Xcode tip for faster builds
+category: dev
 ---
 
 Today I have been rebuilding a HaxeFlixel project in Xcode multiple times. I realized that each time I would rebuild, the **Debug Information Format** setting would revert back to the default, which is **DWARF with dSYM File**. This setting, which I admittedly don't fully understand, really slows down building the project, sending it to my iPhone, and slows down the game too. I think the extra debug information is unnecessary, and it *really* slows down my workflow. So, how do we change this default setting to **DWARF**? Glad you asked, because I spent an hour or two figuring this out today, and I would love to share.

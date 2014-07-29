@@ -1,6 +1,7 @@
 ---
 layout: post
 title: raDial Timer
+category: iOS
 ---
 <p>My next app is almost finished. It is called <strong>raDial Timer</strong>, and is a simple, elegant timer for your iPhone. Perfect for cooking, exercising, or Pomodoro timing&#8230;anything you need to set a timer for really.</p>
 <p>I am planning on releasing either with or just before iOS 7 drops, hoping for some traction with that release. The style of my app, I think, fits perfectly with the new version of iOS, so I&#8217;m hoping it&#8217;ll take off.</p>

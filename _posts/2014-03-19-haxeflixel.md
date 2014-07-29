@@ -1,6 +1,7 @@
 ---
 layout: post
 title: HaxeFlixel
+category: dev
 ---
 
 So I have changed my mind again, and I have decided to really learn and give HaxeFlixel a chance. I think the benefit of using free tools outweighs the potential benefits that Unity has. I want to keep Unity on the back burner, because it is a very powerful tool that I someday hope to use. But for now, a simpler set of tools with a smaller footprint feels right.

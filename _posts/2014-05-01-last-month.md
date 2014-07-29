@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Last month in Apple Developer Program
+category: iOS
 ---
 
 So I mentioned this in the last post, but I have decided to let my Apple Developer account lapse this month. It ends sometime near the end of May / early June (always right before WWDC). I would love to keep this account open, and will release games in the future for iOS (both iPhone and iPad), but for now I can't justify paying for another unprofitable year.

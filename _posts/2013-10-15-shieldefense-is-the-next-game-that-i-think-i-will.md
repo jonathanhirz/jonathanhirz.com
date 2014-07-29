@@ -1,6 +1,7 @@
 ---
 layout: post
 title: shielDefense
+category: dev
 ---
 
 <p>shielDefense is the next game that I think I will make. I have made a prototype for iPhone with cocos2d, but I have decided to remake and finish this game with Unity. I think it&#8217;s a pretty unique game idea that builds on established ideas. I hope that by posting about it now, I will motivate myself to finish rather than shoot myself in the foot by letting my idea out. :/</p>

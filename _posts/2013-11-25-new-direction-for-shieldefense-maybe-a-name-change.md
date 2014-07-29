@@ -1,6 +1,7 @@
 ---
 layout: post
 title: New direction for shielDefense (maybe a name change too)
+category: dev
 ---
 One hard lesson I am learning in game development is that sometimes the idea in your head isn’t fun. It sounds like it will work and be fun, but once you actually get a prototype running and start playing, it just doesn’t work. I realized the main mechanism for my game (bouncing/aiming asteroids off of a shield) just isn’t fun. And that’s ok! I fought for a couple of days to tweak things and try and make it fun, but it just never felt right.
 

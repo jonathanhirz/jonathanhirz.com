@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mac Pro Trash Icon
+category: blog
 ---
 
 I saw this tweet today:

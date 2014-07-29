@@ -1,6 +1,7 @@
 ---
 layout: post
 title: raDial Timer released!
+category: iOS
 ---
 <p>I have decided to release <a href="http://appstore.com/radialtimer" title="raDial Timer">raDial Timer</a> a week early! The official release date is September 12, but with the announced date of Apple&#8217;s iOS 7 reveal, and some other factors, the release date got bumped up. Call it a secret release date. Ultimate success strategy.</p>
 <p>As far as these other circumstances, some of you may know that my wife and I are having a baby! Due December 4, we couldn&#8217;t be more excited. This is something we have wanted for a long time, and the last few months have been a whirlwind of moving to a condo with more room and getting everything ready for a new person in our lives. One area of this whole adventure that I am slightly stressing about is budget. Both my wife and I work at a grocery store. We do ok, and make enough to live in the Bay Area (a challenge on it&#8217;s own), but adding another person to that budget will definitely add a strain. Adding my desire to make enough on my own to support my family so my wife can stay home and take care of Nathan (oh yeah, it&#8217;s a boy!) seems like an impossible task. We recently found out that she may have to leave work two months earlier than expected, which has really pushed me to find another source of income.</p>

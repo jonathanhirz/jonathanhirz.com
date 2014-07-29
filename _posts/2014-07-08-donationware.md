@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Donationware
+categories: dev
 ---
 
 I am trying something new. I have thought about new ways to make money in game development for a while now. If I had more experience, I could do the traditional 'make game, sell game' thing. I hope to be there someday, and be able to support my family with this simple model, but it's not perfect. Right now, I am still learning how to do this, and I still look at it as a hobby. I don't depend on income from games, which frees me up to just have fun and make things that I want to make. But as I said, I would love to be able to devote more time to this, and make some money from it. So what I'm planning is a two tiered system by which you can play my games and give me money.

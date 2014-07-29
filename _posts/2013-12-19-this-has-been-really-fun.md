@@ -1,6 +1,7 @@
 ---
 layout: post
 title: This has been really fun
+category: blog
 ---
 I have NEVER had this kind of exposure before on the web. I am usually ecstatic if my blog posts get 30 hits or if I get 1-2 retweets. Over the last two days this site has gotten almost 30,000 hits among roughly 20,000 different users due to my post <a href="http://jonathanhirz.com/macprotrash-icon/">Mac Pro Trash Icon</a>. My zip with the new Trash.app icons was downloaded over <strong>32,000 times! </strong>This is staggering to me.
 

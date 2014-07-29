@@ -1,6 +1,7 @@
 ---
 layout: post
 title: quadrobounce2
+category: dev
 ---
 
 [Play Here!](/games/quadrobounce2)

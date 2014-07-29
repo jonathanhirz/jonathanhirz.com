@@ -1,6 +1,7 @@
 ---
 layout: post
 title: We live in pretty amazing times
+category: blog
 ---
 <p>If you want to learn something, you more than likely have the resources to do so on your own. The internet has given us all the power to share knowledge that used to be confined or hard to access. More often than not, you can find this information for free, and go at your own pace to better yourself. I find this pretty amazing.</p>
 <p>The tools we have available today are also amazing. If you aren&#8217;t familiar, <a href="http://unity3d.com" title="Unity">Unity</a> is a set of tools that make game making easy. All of the basic framework for creating objects and making them do stuff is built in, leaving you to be creative and tell them what to do. Surprisingly, Unity is built to be very versatile and can produce a wide variety of games that don&#8217;t feel &#8220;cookie-cutter&#8221;. It&#8217;s also free (at a certain level) which is just completely mind boggling to me.</p>

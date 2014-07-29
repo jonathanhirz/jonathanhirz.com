@@ -6,7 +6,7 @@ pygments:         true
 
 # Permalinks
 permalink:        pretty
-#permalink: /blog/:year/:month/:day/:title
+#permalink:         /:categories/:year/:month/:day/:title
 
 # Setup
 title:            jonathanHirz.com
@@ -18,7 +18,7 @@ author:
   name:           'Jonathan Hirz'
   url:            http://jonathanhiz.com
 
-paginate:         5
+paginate:         3
 paginate_path: "blog/page:num"
 
 # Glynn Config
