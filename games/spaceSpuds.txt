@@ -1,7 +1,8 @@
 spaceSpuds - a Flaplike in space
 
+[0.8.5] - Fixed resolution issues (so game is bigger on web), menuState improvements, SCREEN SHAKE!!, gameOverState tweaks/buttons
 [0.8.0] - small tweaks, better explosion graphics, tweet button now works (TWEET YOUR HIGH SCORE!)
-[0.7.0] - Controls changed. Now you hold to continually boost. Removed restart button, just boost to restart.
+[0.7.0] - Controls changed. Now you hold to continually boost. Removed restart button, just boost to restart
 [0.6.0] - Added explosion graphic, basic smoothing of state transitions
 [0.5.0] - Added tilt and 'engine boost' effect, gameOverState got some buttons (tweet button still doesn't work)
 [0.1.1] - Added pixel perfect collision detection, difficulty increases (more asteroids are spawned as time goes on)

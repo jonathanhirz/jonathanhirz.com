@@ -2,6 +2,7 @@
 layout: otherPage
 title: Archive
 ---
+If you prefer to browse chronologically, <a href="/list/">click here</a>.
 
 <ul>
 {% for category in site.categories reversed %}
