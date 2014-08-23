@@ -5,7 +5,7 @@ title: I Make Games
 
 <div class="new-entry">
 <p><a href="/games/spaceSpuds"><img class="fl" src="/images/spaceSpuds.png" />spaceSpuds</a> <br />
-<span class="info">HaxeFlixel/Flash - June 2014</span> </p>
+<span class="info">HaxeFlixel/Flash - June 2014-present</span> </p>
 </div>
 
 <!--

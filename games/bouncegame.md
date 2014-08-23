@@ -2,7 +2,7 @@
 layout: gamePage
 title: bounce game...thing
 ---
-{%swfobject /flash/bounceThing.swf width:640px height:480px %} Flash Player Required. <img src="/images/bounceGame.png" /> {% endswfobject %}
+{%swfobject /flash/bounceThing.swf width:640px height:480px %} Flash Player Required. <img class="fl" src="/images/bounceGame.png" /> {% endswfobject %}
 <br />
 
 [Source on Github](https://github.com/jonathanhirz/bouncegame)
